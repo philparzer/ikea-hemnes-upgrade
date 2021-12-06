@@ -12,7 +12,7 @@ STL files still need some testing.
 </div>
 
 ## Printing
-Expect having to do some cleanup work after your print is done. I used a Prusa Mini and GIANTARM Wood filament. Make sure to have a few furniture sliders at hand to avoid scratches.
+Expect having to do some cleanup work after your print is done. I used a Prusa Mini, Prusa Slicer (10-20% infill, speed) and GIANTARM Wood filament. Make sure to have a few furniture sliders at hand to avoid scratches.
 
 <img src="https://raw.githubusercontent.com/philparzer/ikea-hemnes-upgrades/main/images/furniture_sliders.jpg" width="50%" height="50%">
 
