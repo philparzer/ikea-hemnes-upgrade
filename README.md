@@ -21,6 +21,7 @@ Expect having to do some cleanup work after your print is done. I used a Prusa M
 - [ ] work on new prototypes
 - [ ] test different print settings
 - [ ] add sliced files
+- [ ] think about problem re some modular upgrades not working on cupholder base
 
 ## Example Images
 
