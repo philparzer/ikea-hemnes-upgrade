@@ -5,7 +5,7 @@
 
 ## Content
 
-This repo contains a blend file with all modular upgrade pieces, base pieces as well as primitives, that you can use to easily create your own Hemnes modifications. The subfolder STL contains exported .stl files of existing models.
+This repo contains a blend file with all modular upgrade pieces, base pieces as well as primitives that you can use to easily create your own Hemnes modifications. The subfolder STL contains exported .stl files of existing models.
 
 <img src="https://raw.githubusercontent.com/philparzer/ikea-hemnes-upgrades/main/images/blend_file.png" width="50%" height="50%"></img>
 
