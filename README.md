@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/philparzer/ikea-hemnes-upgrades/main/images/logo.png" width="10%" height="10%"></img> HEMNES UPGRADES
 
-3D printable upgrades / modifications for Ikea Hemnes beds that can slide right on; no drilling needed <div>(IKEA HEMNES https://www.ikea.com/gb/en/p/hemnes-day-bed-frame-with-3-drawers-white-90349326/)</div>
+3D printable upgrades / modifications for Ikea Hemnes beds that slide right on; no drilling needed <div>(IKEA HEMNES https://www.ikea.com/gb/en/p/hemnes-day-bed-frame-with-3-drawers-white-90349326/)</div>
 
 ## Content
 
@@ -24,7 +24,7 @@ Expect having to do some cleanup work after your print is done. I used a Prusa M
 
 ## Example Images
 
-<img src="https://raw.githubusercontent.com/philparzer/ikea-hemnes-upgrades/main/images/overview_q1_2022.png" width="50%" height="50%"></img>
+<img src="https://raw.githubusercontent.com/philparzer/ikea-hemnes-upgrades/main/images/overview_q1_2022.jpeg" width="50%" height="50%"></img>
 
 <img src="https://raw.githubusercontent.com/philparzer/ikea-hemnes-upgrades/main/images/headphones.png" width="50%" height="50%"></img>
 
